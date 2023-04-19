@@ -34,8 +34,8 @@
         ocrCode: "CST01",
         project: "LINDE",
         uomCode: "CAN",
-      }
-    ]
+      },
+    ],
   },
   {
     id: 6,
@@ -72,9 +72,9 @@
         ocrCode: "CST02",
         project: "LINDE",
         uomCode: "CAN",
-      }
-    ]
-  }
+      },
+    ],
+  },
   {
     id: 7,
     docEntry: 7,
@@ -122,9 +122,9 @@
         ocrCode: "CST02",
         project: "LINDE",
         uomCode: "KGS",
-      }
-    ]
-  }
+      },
+    ],
+  },
   {
     id: 8,
     docEntry: 8,
@@ -160,9 +160,9 @@
         ocrCode: "CST01",
         project: "LINDE",
         uomCode: "CAN",
-      }
-    ]
-  }
+      },
+    ],
+  },
   {
     id: 9,
     docEntry: 9,
@@ -198,9 +198,9 @@
         ocrCode: "CST01",
         project: "LINDE",
         uomCode: "CAN",
-      }
-    ]
-  }
+      },
+    ],
+  },
   {
     id: 10,
     docEntry: 10,
@@ -236,9 +236,9 @@
         ocrCode: "CST01",
         project: "LINDE",
         uomCode: "CAN",
-      }
-    ]
-  }
+      },
+    ],
+  },
   {
     id: 11,
     docEntry: 11,
@@ -274,9 +274,9 @@
         ocrCode: "CST01",
         project: "LINDE",
         uomCode: "CAN",
-      }
-    ]
-  }
+      },
+    ],
+  },
   {
     id: 12,
     docEntry: 12,
@@ -312,9 +312,9 @@
         ocrCode: "CST01",
         project: "LINDE",
         uomCode: "CAN",
-      }
-    ]
-  }
+      },
+    ],
+  },
   {
     id: 13,
     docEntry: 13,
@@ -350,7 +350,7 @@
         ocrCode: "CST01",
         project: "LINDE",
         uomCode: "CAN",
-      }
-    ]
-  }
+      },
+    ],
+  },
   ]
