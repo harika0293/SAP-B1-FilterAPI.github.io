@@ -1,0 +1,394 @@
+[
+    {
+      "id": 1,
+      "docEntry": 1,
+      "docNum": 1,
+      "postDate": "01/02/2023",
+      "warehouse": "General Warehouse 1",
+      "itemCode": "A-020450",
+      "itemName": "Putting Patty",
+      "plannedQty": "1.000000",
+      "objectType": "202",
+      "cardCode": "V01270",
+      "poLines": [
+          {
+              "id": 0,
+              "docEntry": 1,
+              "lineNum": 0,
+              "itemCode": "A-006452",
+              "itemName": "SLIDER",
+              "plannedQty": "2.000000",
+              "warehouse": "A_BAY5",
+              "ocrCode": "256",
+              "project": "WeaveTech",
+              "uomCode": "manual"
+          },
+          {
+              "id": 1,
+              "docEntry": 1,
+              "lineNum": 1,
+              "itemCode": "A-015598",
+              "itemName": "BACKELITE DRUM φ90",
+              "plannedQty": "2.000000",
+              "warehouse": "A_BAY5",
+              "ocrCode": "256",
+              "project": "WeaveTech",
+              "uomCode": "manual"
+          },
+          {
+              "id": 2,
+              "docEntry": 1,
+              "lineNum": 2,
+              "itemCode": "A-008154",
+              "itemName": "BALLON CERAMIC",
+              "plannedQty": "2.000000",
+              "warehouse": "A_BAY5",
+              "ocrCode": "256",
+              "project": "WeaveTech",
+              "uomCode": "manual"
+          }
+        ]
+        },
+    {
+          "id": 2,
+          "docEntry": 2,
+          "docNum": 2,
+          "postDate": "01/06/2023",
+          "warehouse": "General Warehouse 1",
+          "itemCode": "A-020450",
+          "itemName": "Putting Patty",
+          "plannedQty": "1.000000",
+          "objectType": "202",
+          "cardCode": "V01271",
+          "poLines": [
+              {
+                  "id": 0,
+                  "docEntry": 2,
+                  "lineNum": 0,
+                  "itemCode": "A-006452",
+                  "itemName": "SLIDER",
+                  "plannedQty": "2.000000",
+                  "warehouse": "A_BAY5",
+                  "ocrCode": "256",
+                  "project": "WeaveTech",
+                  "uomCode": "manual"
+              },
+              {
+                  "id": 1,
+                  "docEntry": 2,
+                  "lineNum": 1,
+                  "itemCode": "A-015598",
+                  "itemName": "BACKELITE DRUM φ90",
+                  "plannedQty": "2.000000",
+                  "warehouse": "A_BAY5",
+                  "ocrCode": "256",
+                  "project": "WeaveTech",
+                  "uomCode": "manual"
+              }
+            ]
+        },
+    {
+              "id": 3,
+              "docEntry": 3,
+              "docNum": 3,
+              "postDate": "01/05/2023",
+              "warehouse": "General Warehouse 1",
+              "itemCode": "A-020450",
+              "itemName": "Backelite Drum",
+              "plannedQty": "1.000000",
+              "objectType": "202",
+              "cardCode": "V01272",
+              "poLines": [
+                  {
+                      "id": 0,
+                      "docEntry": 3,
+                      "lineNum": 0,
+                      "itemCode": "A-006452",
+                      "itemName": "SLIDER",
+                      "plannedQty": "2.000000",
+                      "warehouse": "A_BAY5",
+                      "ocrCode": "256",
+                      "project": "WeaveTech",
+                      "uomCode": "manual"
+                  },
+                  {
+                      "id": 1,
+                      "docEntry": 3,
+                      "lineNum": 1,
+                      "itemCode": "A-015598",
+                      "itemName": "BACKELITE DRUM φ90",
+                      "plannedQty": "2.000000",
+                      "warehouse": "A_BAY5",
+                      "ocrCode": "256",
+                      "project": "WeaveTech",
+                      "uomCode": "manual"
+                  }
+                ]
+        },
+    {
+                  "id": 4,
+                  "docEntry": 4,
+                  "docNum": 4,
+                  "postDate": "03/01/2023",
+                  "warehouse": "General Warehouse 1",
+                  "itemCode": "A-020450",
+                  "itemName": "Slider",
+                  "plannedQty": "1.000000",
+                  "objectType": "202",
+                  "cardCode": "V01273",
+                  "poLines": [
+                      {
+                          "id": 0,
+                          "docEntry": 4,
+                          "lineNum": 0,
+                          "itemCode": "A-006452",
+                          "itemName": "SLIDER",
+                          "plannedQty": "2.000000",
+                          "warehouse": "A_BAY5",
+                          "ocrCode": "256",
+                          "project": "WeaveTech",
+                          "uomCode": "manual"
+                      },
+                      {
+                          "id": 1,
+                          "docEntry": 4,
+                          "lineNum": 1,
+                          "itemCode": "A-015598",
+                          "itemName": "BACKELITE DRUM φ90",
+                          "plannedQty": "2.000000",
+                          "warehouse": "A_BAY5",
+                          "ocrCode": "256",
+                          "project": "WeaveTech",
+                          "uomCode": "manual"
+                      }
+                    ]
+        },
+    {
+          "id": 5,
+          "docEntry": 5,
+          "docNum": 5,
+          "postDate": "04/05/2023",
+          "warehouse": "General Warehouse 1",
+          "itemCode": "A-020450",
+          "itemName": "Slider",
+          "plannedQty": "1.000000",
+          "objectType": "202",
+          "cardCode": "V01274",
+          "poLines": [
+              {
+                  "id": 0,
+                  "docEntry": 5,
+                  "lineNum": 0,
+                  "itemCode": "A-006452",
+                  "itemName": "SLIDER",
+                  "plannedQty": "2.000000",
+                  "warehouse": "A_BAY5",
+                  "ocrCode": "256",
+                  "project": "WeaveTech",
+                  "uomCode": "manual"
+              },
+              {
+                  "id": 1,
+                  "docEntry": 5,
+                  "lineNum": 1,
+                  "itemCode": "A-015598",
+                  "itemName": "BACKELITE DRUM φ90",
+                  "plannedQty": "2.000000",
+                  "warehouse": "A_BAY5",
+                  "ocrCode": "256",
+                  "project": "WeaveTech",
+                  "uomCode": "manual"
+              }
+            ]
+    },
+    {
+        "id": 6,
+        "docEntry": 6,
+        "docNum": 6,
+        "postDate": "04/05/2023",
+        "warehouse": "General Warehouse 1",
+        "itemCode": "A-020450",
+        "itemName": "Slider",
+        "plannedQty": "1.000000",
+        "objectType": "202",
+        "cardCode": "V01274",
+        "poLines": [
+            {
+                "id": 0,
+                "docEntry": 6,
+                "lineNum": 0,
+                "itemCode": "A-006452",
+                "itemName": "SLIDER",
+                "plannedQty": "2.000000",
+                "warehouse": "A_BAY5",
+                "ocrCode": "256",
+                "project": "WeaveTech",
+                "uomCode": "manual"
+            },
+            {
+                "id": 1,
+                "docEntry": 6,
+                "lineNum": 1,
+                "itemCode": "A-015598",
+                "itemName": "BACKELITE DRUM φ90",
+                "plannedQty": "2.000000",
+                "warehouse": "A_BAY5",
+                "ocrCode": "256",
+                "project": "WeaveTech",
+                "uomCode": "manual"
+            }
+          ]
+  },
+  {
+    "id": 7,
+    "docEntry": 7,
+    "docNum": 7,
+    "postDate": "04/05/2023",
+    "warehouse": "General Warehouse 1",
+    "itemCode": "A-020450",
+    "itemName": "Slider",
+    "plannedQty": "1.000000",
+    "objectType": "202",
+    "cardCode": "V01274",
+    "poLines": [
+        {
+            "id": 0,
+            "docEntry": 7,
+            "lineNum": 0,
+            "itemCode": "A-006452",
+            "itemName": "SLIDER",
+            "plannedQty": "2.000000",
+            "warehouse": "A_BAY5",
+            "ocrCode": "256",
+            "project": "WeaveTech",
+            "uomCode": "manual"
+        },
+        {
+            "id": 1,
+            "docEntry": 7,
+            "lineNum": 1,
+            "itemCode": "A-015598",
+            "itemName": "BACKELITE DRUM φ90",
+            "plannedQty": "2.000000",
+            "warehouse": "A_BAY5",
+            "ocrCode": "256",
+            "project": "WeaveTech",
+            "uomCode": "manual"
+        }
+      ]
+},
+{
+    "id": 8,
+    "docEntry": 8,
+    "docNum": 8,
+    "postDate": "04/05/2023",
+    "warehouse": "General Warehouse 1",
+    "itemCode": "A-020450",
+    "itemName": "Slider",
+    "plannedQty": "1.000000",
+    "objectType": "202",
+    "cardCode": "V01274",
+    "poLines": [
+        {
+            "id": 0,
+            "docEntry": 8,
+            "lineNum": 0,
+            "itemCode": "A-006452",
+            "itemName": "SLIDER",
+            "plannedQty": "2.000000",
+            "warehouse": "A_BAY5",
+            "ocrCode": "256",
+            "project": "WeaveTech",
+            "uomCode": "manual"
+        },
+        {
+            "id": 1,
+            "docEntry": 8,
+            "lineNum": 1,
+            "itemCode": "A-015598",
+            "itemName": "BACKELITE DRUM φ90",
+            "plannedQty": "2.000000",
+            "warehouse": "A_BAY5",
+            "ocrCode": "256",
+            "project": "WeaveTech",
+            "uomCode": "manual"
+        }
+      ]
+},
+{
+    "id": 9,
+    "docEntry": 9,
+    "docNum": 9,
+    "postDate": "04/05/2023",
+    "warehouse": "General Warehouse 1",
+    "itemCode": "A-020450",
+    "itemName": "Slider",
+    "plannedQty": "1.000000",
+    "objectType": "202",
+    "cardCode": "V01274",
+    "poLines": [
+        {
+            "id": 0,
+            "docEntry": 9,
+            "lineNum": 0,
+            "itemCode": "A-006452",
+            "itemName": "SLIDER",
+            "plannedQty": "2.000000",
+            "warehouse": "A_BAY5",
+            "ocrCode": "256",
+            "project": "WeaveTech",
+            "uomCode": "manual"
+        },
+        {
+            "id": 1,
+            "docEntry": 9,
+            "lineNum": 1,
+            "itemCode": "A-015598",
+            "itemName": "BACKELITE DRUM φ90",
+            "plannedQty": "2.000000",
+            "warehouse": "A_BAY5",
+            "ocrCode": "256",
+            "project": "WeaveTech",
+            "uomCode": "manual"
+        }
+      ]
+},
+{
+    "id": 10,
+    "docEntry": 10,
+    "docNum": 10,
+    "postDate": "04/05/2023",
+    "warehouse": "General Warehouse 1",
+    "itemCode": "A-020450",
+    "itemName": "Slider",
+    "plannedQty": "1.000000",
+    "objectType": "202",
+    "cardCode": "V01274",
+    "poLines": [
+        {
+            "id": 0,
+            "docEntry": 10,
+            "lineNum": 0,
+            "itemCode": "A-006452",
+            "itemName": "SLIDER",
+            "plannedQty": "2.000000",
+            "warehouse": "A_BAY5",
+            "ocrCode": "256",
+            "project": "WeaveTech",
+            "uomCode": "manual"
+        },
+        {
+            "id": 1,
+            "docEntry": 10,
+            "lineNum": 1,
+            "itemCode": "A-015598",
+            "itemName": "BACKELITE DRUM φ90",
+            "plannedQty": "2.000000",
+            "warehouse": "A_BAY5",
+            "ocrCode": "256",
+            "project": "WeaveTech",
+            "uomCode": "manual"
+        }
+      ]
+}
+  ]
